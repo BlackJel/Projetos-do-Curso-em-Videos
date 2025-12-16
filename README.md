@@ -1,4 +1,4 @@
 # Projetos do Curso em Videos
-Primeiro Repositorio
+Primeiro Repositório
 
 Repositório criado em aula 
